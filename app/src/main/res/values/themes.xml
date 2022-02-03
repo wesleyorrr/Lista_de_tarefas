@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NttData_to_do_list" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="colorPrimary">#3C3D8A</item>
+        <item name="colorPrimaryDark">#3C3D8A</item>
+
+        <item name="colorSecondary">#3C3D8A</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+
+    </style>
+</resources>

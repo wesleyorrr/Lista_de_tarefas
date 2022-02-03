@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dio_to_list</string>
+    <string name="label_tasks">Tarefa 2022</string>
+    <string name="label_new_task">Crie sua Lista</string>
+    <string name="label_title">Missão</string>
+    <string name="label_date">Data</string>
+    <string name="label_hour">Horas</string>
+    <string name="label_cancel">Cancelar</string>
+    <string name="label_description_new_task">Nova Tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Remover</string>
+    <string name="label_you_dont_have_tasks">Planeje seu futuro!</string>
+</resources>
